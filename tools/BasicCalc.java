@@ -1,5 +1,9 @@
 package tools;
-public class BasicCalc{
+class B{
+    int age=18;
+}
+public class BasicCalc
+{
     public int add(int n1,int n2){
         return n1+n2;
     }
